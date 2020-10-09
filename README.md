@@ -6,7 +6,7 @@
 - 🥅 2020 Goals: Be a Web-Developer.
 - ⚡ Fun fact: I love to Dance.
 ### Wynk Playing 🎧
-[<img src="https://i.pinimg.com/originals/60/a6/37/60a6370c7eb20418d83e930fd3dc19d7.gif" alt="Harsh's Wynk Playing" height="100" width="200" />](https://wynk.in/u/crssCdyAY)
+[<img src="https://codetea.com/content/images/2018/03/Music-player.gif" alt="Harsh's Wynk Playing" height="100" width="200" />](https://wynk.in/u/crssCdyAY)
 
 ### Connect with me:
 [<img align="left" alt="Harsh Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nationalist9839)
