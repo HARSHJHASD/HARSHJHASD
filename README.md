@@ -13,6 +13,8 @@
 [<img align="left" alt="Harsh Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harsh-jha-154013157/)
 [<img align="left" alt="Harsh Jha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_harsh_jha_/)
 </br>
+[<img align="left" alt="Harsh Jha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.fb.com/harshjhasd/)
+</br>
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
