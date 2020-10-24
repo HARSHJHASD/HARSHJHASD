@@ -12,7 +12,6 @@
 [<img align="left" alt="Harsh Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/nationalist9839)
 [<img align="left" alt="Harsh Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/harsh-jha-154013157/)
 [<img align="left" alt="Harsh Jha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_harsh_jha_/)
-</br>
 [<img align="left" alt="Harsh Jha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.fb.com/harshjhasd/)
 </br>
 
