@@ -3,7 +3,7 @@
 
 ## I'm a Student!!
 - 🌱 I’m currently learning Web Devolopment.
-- 🥅 2020 Goals: Be a Web-Developer.
+- 🥅 2021 Goals: Be a Web-Developer.
 - ⚡ Fun fact: I love to Dance.
 ### Wynk Playing 🎧
 [<img src="https://codetea.com/content/images/2018/03/Music-player.gif" alt="Harsh's Wynk Playing" height="100" width="200" />](https://wynk.in/u/crssCdyAY)
@@ -33,5 +33,6 @@
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
 <img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
 <img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/json/json.png" />
+<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/json/React.png" />
 
 
