@@ -2,7 +2,7 @@
 
 
 ## I'm a Student!!
-- 🌱 I’m currently learning Web Devolopment.
+- 🌱 I’m currently Learning Data Structures and Algorithms.
 - 🥅 2021 Goals: Be a Web-Developer.
 - ⚡ Fun fact: I love to Dance.
 ### Wynk Playing 🎧
