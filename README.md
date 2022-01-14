@@ -3,7 +3,7 @@
 
 ## I'm a Student!!
 - 🌱 I’m currently Learning Data Structures and Algorithms.
-- 🥅 2021 Goals: Be a Web-Developer.
+- 🥅 2022 Goals: Be a Software Engineer.
 - ⚡ Fun fact: I love to Dance.
 ### Wynk Playing 🎧
 [<img src="https://codetea.com/content/images/2018/03/Music-player.gif" alt="Harsh's Wynk Playing" height="100" width="200" />](https://wynk.in/u/crssCdyAY)
