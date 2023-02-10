@@ -1,10 +1,10 @@
-### Hi there, I'm  Harsh 👋
+### Hey There , I'm a Developer 👋
 
 
 ## I'm a Student!!
 - 🌱 I’m currently Learning Data Structures and Algorithms.
-- 🥅 2022 Goals: Be a Software Engineer.
-- ⚡ Fun fact: I love to Dance.
+- 🥅 2023 Goals: Excel React.
+- ⚡ Fun fact: you are a sugar addict.
 ### Wynk Playing 🎧
 [<img src="https://codetea.com/content/images/2018/03/Music-player.gif" alt="Harsh's Wynk Playing" height="100" width="200" />](https://wynk.in/u/crssCdyAY)
 
