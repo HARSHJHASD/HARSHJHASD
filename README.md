@@ -1,10 +1,10 @@
 ### Hey There , I'm a Developer 👋
 
 
-## I'm a Student!!
-- 🌱 I’m currently Learning Data Structures and Algorithms.
-- 🥅 2023 Goals: Excel React.
-- ⚡ Fun fact: you are a sugar addict.
+## I'm a Frontend Developer!!
+- 🌱 I’m currently Working as a React Developer.
+- 🥅 2023 Goals: Excel Backend Development..
+- ⚡ Fun fact: We are all sugar addict.
 ### Wynk Playing 🎧
 [<img src="https://codetea.com/content/images/2018/03/Music-player.gif" alt="Harsh's Wynk Playing" height="100" width="200" />](https://wynk.in/u/crssCdyAY)
 
@@ -16,8 +16,8 @@
 </br>
 
 ### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+
+
 <img align="left" alt="C-Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -30,8 +30,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/php/php.png" />
-<img align="left" alt="Wordpress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
+
 
 
 
