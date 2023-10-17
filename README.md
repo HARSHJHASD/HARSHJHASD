@@ -1,7 +1,5 @@
 ### Hey There , I'm a Software Developer 👋
 
-
-## I'm a Frontend Developer!!
 - 🌱 I’m currently Working as a React Developer.
 - 🥅 2023 Goals: Excel Backend Development..
 - ⚡ Fun fact: We are all sugar addict.
