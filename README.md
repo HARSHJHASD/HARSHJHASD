@@ -1,6 +1,6 @@
 ### Hey There , I'm a Software Developer 👋
 
-- 🌱 I’m currently Working as a React Developer.
+- 🌱 I’m currently Working as a Software Developer.
 - 🥅 2023 Goals: Excel Backend Development..
 - ⚡ Fun fact: We are all sugar addict.
 ### Wynk Playing 🎧
